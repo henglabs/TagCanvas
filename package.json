@@ -1,0 +1,20 @@
+{
+  "name": "tagcanvas",
+  "version": "2.9.0",
+  "description": "Tag canvas cloud",
+  "main": "tagcanvas.js",
+  "scripts": {
+    "test": "none"
+  },
+  "main": "tagcanvas.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henglabs/TagCanvas.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henglabs/TagCanvas/issues"
+  },
+  "homepage": "https://github.com/henglabs/TagCanvas#readme"
+}
